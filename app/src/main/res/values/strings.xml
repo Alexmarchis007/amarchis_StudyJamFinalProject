@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">FiveTouristAttractionInCluj</string>
     <string name="action_settings">Settings</string>
+    <string name="five_places_to_visit_in_Cluj">5 places to visit in Cluj</string>
+    <string name="the_botanic_garden">The Botanic Garden</string>
+    <string name="the_central_park">The Central Park</string>
+    <string name="the_national_theater">The National Theater</string>
+    <string name="the_salty_mine">The Salty Mine</string>
+    <string name="the_etnografic_museum">The Etnografic Museum</string>
 </resources>
